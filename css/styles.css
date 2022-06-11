@@ -85,12 +85,12 @@ body ul {
   margin: 0 1rem;
   font-size: 1.5rem;
 }
+.header-social-media ul li a:hover {
+  color: #fff;
+}
 @media (max-width: 1180px) {
   .header-social-media ul {
     font-size: 1.5rem;
-  }
-  .header-social-media ul a:hover {
-    color: #fff;
   }
 }
 
